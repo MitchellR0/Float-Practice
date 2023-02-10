@@ -48,3 +48,7 @@ footer p {
     text-align: center;
     font-size: 75%;
 }
+
+div {
+    clear: both;
+}
