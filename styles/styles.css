@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    background-image: url(../images/mittensbackground.jpg);
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border: 5px solid rgb(81, 30, 30);
+    border-radius: 25px;
+}
+
+body img {
+    max-width: 400px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+h1, h2, h3, h4 {
+    margin: 1em 1em;
+}
+
+p {
+    margin: 1em;
+    padding-top: 20px;
+    font-size: 130%
+}
+
+img {
+    margin: 1em;
+}
+
+footer {
+    clear: both;
+}
+
+footer p {
+    text-align: center;
+    font-size: 75%;
+}
